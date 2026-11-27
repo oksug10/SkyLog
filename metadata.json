@@ -1,0 +1,6 @@
+{
+  "name": "에어로인스펙트 — 드론 안전진단 AI 시스템",
+  "description": "드론 항공 촬영 영상에서 교량·건축물·태양광·풍력 시설물의 균열, 박락, 철근 노출, 파손 등 구조 결함을 AI로 자동 검출하고 안전등급(A~E)과 보수 방안을 제시하는 안전진단 시스템입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
